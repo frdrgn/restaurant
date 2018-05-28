@@ -14,7 +14,7 @@ import UIKit
 class MenuController {
     static var shared = MenuController() // create shared instance of MenuController for all ViewControllers
     
-    var baseURL = URL(string: "http://88.196.194.76:8090/")!
+    var baseURL = URL(string: "http://78.196.194.76:8090/")!
     
     func updateBaseURL(ipAddress: String) {
         baseURL = URL(string: "http://"+ipAddress+":8090/")!
