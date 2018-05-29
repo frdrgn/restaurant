@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2051747A20BC723300D4B43D /* OrderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2051747920BC723300D4B43D /* OrderTableViewCell.swift */; };
+		208E53EE20BD0C60002E5B14 /* MenuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 208E53ED20BD0C60002E5B14 /* MenuTableViewCell.swift */; };
 		20AC2FA820B46B4300F8B208 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AC2FA720B46B4300F8B208 /* AppDelegate.swift */; };
 		20AC2FAD20B46B4300F8B208 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20AC2FAB20B46B4300F8B208 /* Main.storyboard */; };
 		20AC2FAF20B46B4400F8B208 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20AC2FAE20B46B4400F8B208 /* Assets.xcassets */; };
@@ -45,6 +46,7 @@
 
 /* Begin PBXFileReference section */
 		2051747920BC723300D4B43D /* OrderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderTableViewCell.swift; sourceTree = "<group>"; };
+		208E53ED20BD0C60002E5B14 /* MenuTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuTableViewCell.swift; sourceTree = "<group>"; };
 		20AC2FA420B46B4300F8B208 /* Restaurant.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Restaurant.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20AC2FA720B46B4300F8B208 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		20AC2FAC20B46B4300F8B208 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				20AC2FA720B46B4300F8B208 /* AppDelegate.swift */,
 				20AC2FD520B472C800F8B208 /* CategoryTableViewController.swift */,
 				20AC2FD720B472D100F8B208 /* MenuTableViewController.swift */,
+				208E53ED20BD0C60002E5B14 /* MenuTableViewCell.swift */,
 				20AC2FD920B4731400F8B208 /* OrderTableViewController.swift */,
 				2051747920BC723300D4B43D /* OrderTableViewCell.swift */,
 				20AC2FDB20B473BA00F8B208 /* MenuItemDetailViewController.swift */,
@@ -295,6 +298,7 @@
 				2051747A20BC723300D4B43D /* OrderTableViewCell.swift in Sources */,
 				20AC2FD620B472C800F8B208 /* CategoryTableViewController.swift in Sources */,
 				20AC2FD820B472D100F8B208 /* MenuTableViewController.swift in Sources */,
+				208E53EE20BD0C60002E5B14 /* MenuTableViewCell.swift in Sources */,
 				20AC2FE020B4755900F8B208 /* IntermediaryModels.swift in Sources */,
 				20AC2FE820B6727300F8B208 /* OrderConfirmationViewController.swift in Sources */,
 				20AC2FE420B5CADC00F8B208 /* SettingsViewController.swift in Sources */,
